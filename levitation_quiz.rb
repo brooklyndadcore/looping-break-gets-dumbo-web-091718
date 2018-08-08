@@ -6,7 +6,7 @@ def levitation_quiz
 	  break if
 	    answer == 
 	   end
-	   puts 
+	   puts "You passed the quiz!" 
 end
 
 
